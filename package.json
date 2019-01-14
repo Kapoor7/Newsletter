@@ -1,0 +1,17 @@
+{
+  "name": "jan13project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HK",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "npm": "^6.5.0",
+    "request": "^2.88.0"
+  }
+}
