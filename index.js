@@ -58,6 +58,3 @@ request(options, (err, response, body ) => {
 app.listen(process.env.PORT || 3000, function(){
   console.log(`Server started on port`);
 });
-
-//List id 3e0e748820
-//API Key f9e6bf03d5808bb8887ba28ace016258-us20
